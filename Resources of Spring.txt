@@ -39,3 +39,11 @@ https://www.baeldung.com/spring-import-annotation 		  			(OPTIONAL)
 https://www.baeldung.com/spring-inject-bean-into-unmanaged-objects	(OPTIONAL)
 https://www.baeldung.com/spring-autowired-abstract-class			(OPTIONAL)
 =============================================================================================================
+
+<<<<< Spring AOP >>>>>
+
+https://www.baeldung.com/spring-aop
+https://www.baeldung.com/spring-aop-advice-tutorial
+https://www.baeldung.com/spring-aop-get-advised-method-info
+https://www.baeldung.com/spring-aop-pointcut-tutorial
+=============================================================================================================
