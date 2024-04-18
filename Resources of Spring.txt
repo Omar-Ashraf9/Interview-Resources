@@ -47,3 +47,35 @@ https://www.baeldung.com/spring-aop-advice-tutorial
 https://www.baeldung.com/spring-aop-get-advised-method-info
 https://www.baeldung.com/spring-aop-pointcut-tutorial
 =============================================================================================================
+
+<<<<< Spring MVC >>>>>
+
+https://www.baeldung.com/spring-mvc-tutorial
+https://www.baeldung.com/spring-dispatcherservlet
+https://www.baeldung.com/spring-applicationcontext-vs-spring-servlet-xml
+https://www.baeldung.com/spring-controllers
+https://www.baeldung.com/spring-new-requestmapping-shortcuts
+https://www.baeldung.com/spring-mvc-controller-custom-http-status-code
+https://www.baeldung.com/spring-handler-mappings
+https://www.baeldung.com/spring-mvc-handler-adapters
+https://www.baeldung.com/spring-mvc-view-resolver-tutorial
+https://www.baeldung.com/spring-xml-vs-java-config
+https://www.baeldung.com/spring-mvc-model-model-map-model-view
+https://www.baeldung.com/spring-mvc-annotations
+https://www.baeldung.com/spring-requestmapping
+https://www.baeldung.com/spring-request-param
+https://www.baeldung.com/spring-mvc-and-the-modelattribute-annotation
+https://www.baeldung.com/spring-mvc-annotations
+https://www.baeldung.com/spring-pathvariable
+https://www.baeldung.com/spring-mvc-custom-validator
+    <<<<< Rest >>>>>
+    https://www.baeldung.com/spring-response-status
+    https://www.baeldung.com/spring-request-response-body
+    https://www.baeldung.com/rest-api-pagination-in-spring
+    https://www.baeldung.com/spring-response-entity
+    https://www.baeldung.com/spring-mvc-session-attributes
+    https://www.baeldung.com/exception-handling-for-rest-with-spring
+    https://www.baeldung.com/rest-versioning
+=============================================================================================================    
+
+<<<<< Spring Data Access >>>>>
