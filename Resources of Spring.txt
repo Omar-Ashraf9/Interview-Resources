@@ -1,0 +1,37 @@
+<<<<< Spring Core >>>>>
+
+
+https://www.baeldung.com/cs/ioc
+https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
+https://www.baeldung.com/spring-why-to-choose 		(OPTIONAL)
+https://www.baeldung.com/spring-application-context
+https://www.baeldung.com/spring-beanfactory-vs-applicationcontext
+https://www.baeldung.com/cs/dependency-injection-vs-service-locator
+https://www.baeldung.com/constructor-injection-in-spring
+https://www.baeldung.com/circular-dependencies-in-spring
+https://www.baeldung.com/spring-bean
+https://www.baeldung.com/spring-factorybean
+https://www.baeldung.com/spring-bean-scopes
+https://www.baeldung.com/spring-bean-annotations
+https://www.baeldung.com/spring-bean-names
+https://www.baeldung.com/spring-getbean
+https://www.baeldung.com/spring-autowire
+https://www.baeldung.com/spring-injecting-collections
+https://www.baeldung.com/spring-autowire-generics
+https://www.baeldung.com/spring-core-annotations
+https://www.baeldung.com/spring-bean-annotations
+https://www.baeldung.com/spring-qualifier-annotation
+https://www.baeldung.com/spring-primary
+https://www.baeldung.com/spring-component-repository-service
+https://www.baeldung.com/properties-with-spring
+https://www.baeldung.com/spring-value-annotation
+https://www.baeldung.com/spring-profiles
+https://www.baeldung.com/spring-order
+https://www.baeldung.com/spring-xml-injection (OPTIONAL): Knowing that the popular way is the annotation 
+https://www.baeldung.com/spring-component-annotation
+https://www.baeldung.com/spring-component-scanning
+https://www.baeldung.com/spring-inject-prototype-bean-into-singleton
+
+https://www.baeldung.com/java-spring-field-injection-cons (OPTIONAL)
+https://www.baeldung.com/spring-import-annotation 		  (OPTIONAL)
+=============================================================================================================
