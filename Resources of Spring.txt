@@ -10,6 +10,7 @@ https://www.baeldung.com/cs/dependency-injection-vs-service-locator
 https://www.baeldung.com/constructor-injection-in-spring
 https://www.baeldung.com/circular-dependencies-in-spring
 https://www.baeldung.com/spring-bean
+https://www.baeldung.com/spring-beans-factory-methods
 https://www.baeldung.com/spring-factorybean
 https://www.baeldung.com/spring-bean-scopes
 https://www.baeldung.com/spring-bean-annotations
@@ -32,6 +33,9 @@ https://www.baeldung.com/spring-component-annotation
 https://www.baeldung.com/spring-component-scanning
 https://www.baeldung.com/spring-inject-prototype-bean-into-singleton
 
-https://www.baeldung.com/java-spring-field-injection-cons (OPTIONAL)
-https://www.baeldung.com/spring-import-annotation 		  (OPTIONAL)
+https://www.baeldung.com/java-spring-field-injection-cons 			(OPTIONAL)
+https://www.baeldung.com/spring-autowired-field-null	  			(OPTIONAL)
+https://www.baeldung.com/spring-import-annotation 		  			(OPTIONAL)
+https://www.baeldung.com/spring-inject-bean-into-unmanaged-objects	(OPTIONAL)
+https://www.baeldung.com/spring-autowired-abstract-class			(OPTIONAL)
 =============================================================================================================
