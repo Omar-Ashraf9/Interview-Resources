@@ -86,9 +86,7 @@
 
 ### Lists
 - [ ] [Java LinkedList](https://www.baeldung.com/java-linkedlist)
-- [ ] [Java ArrayList
-
-](https://www.baeldung.com/java-arraylist)
+- [ ] [Java ArrayList](https://www.baeldung.com/java-arraylist)
 - [ ] [Java Multi-Dimensional ArrayList](https://www.baeldung.com/java-multi-dimensional-arraylist)
 - [ ] [Java Arrays Guide](https://www.baeldung.com/java-arrays-guide)
 
