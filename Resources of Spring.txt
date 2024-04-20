@@ -85,11 +85,20 @@ JDBC:
  
 Note: the last link contains the example about using H2 DB, try to write it.
 
-Hibernate-Native:
+Transaction:
     Due to the lack of resources, conider the lecture and the lab ONLY.
-    But you can check the following three links:
+    But you can check the following links:
 
+    https://www.baeldung.com/java-transactions
     https://www.baeldung.com/spring-vs-jta-transactional
     https://www.baeldung.com/transaction-configuration-with-jpa-and-spring
     https://www.baeldung.com/spring-transactional-propagation-isolation
+    https://www.baeldung.com/spring-transaction-active
+
+
+Persistence Context:
+    https://www.baeldung.com/jpa-hibernate-persistence-context
+    https://www.baeldung.com/hibernate-entitymanager
+    
+    
 =============================================================================================================
