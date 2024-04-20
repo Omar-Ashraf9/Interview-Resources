@@ -194,9 +194,9 @@ Due to the lack of resources, consider the lecture and the lab ONLY. But you can
 - [Transaction Configuration with JPA and Spring](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
 - [Spring Transactional Propagation and Isolation](https://www.baeldung.com/spring-transactional-propagation-isolation)
 
-## Threads
+# Threads
 - [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
 
-## Database
+# Database
 - [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres) (Optional but Recommended)
 
