@@ -115,6 +115,7 @@
 - [ ] [Constructor Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)
 - [ ] [Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)
 - [ ] [Spring Bean](https://www.baeldung.com/spring-bean)
+- [ ] [Java Dynamic proxy mechanism and how Spring is using it](https://medium.com/@spac.valentin/java-dynamic-proxy-mechanism-and-how-spring-is-using-it-93756fc707d5)
 - [ ] [Spring Beans Factory Methods](https://www.baeldung.com/spring-beans-factory-methods)
 - [ ] [Spring FactoryBean](https://www.baeldung.com/spring-factorybean)
 - [ ] [Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
