@@ -200,3 +200,7 @@ Due to the lack of resources, consider the lecture and the lab ONLY. But you can
 
 # Database
 - [ ] [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres) (Optional but Recommended)
+- [ ] [Building DB](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx) (Optional)
+- [ ] [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) (Optional) Most important topic is: indexing
+- [ ] [SQL Guide](https://www.mysqltutorial.org/) (Optional) helps in understanding the queries
+- [ ] [Execution Order](https://vladmihalcea.com/sql-operation-order/) 
