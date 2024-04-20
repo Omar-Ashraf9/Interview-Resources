@@ -189,11 +189,14 @@
 
 Note: The last link contains an example using H2 DB, try to write it.
 
-## Hibernate-Native
+## Transaction
 Due to the lack of resources, consider the lecture and the lab ONLY. But you can check the following three links:
+
 - [ ] [Spring vs JTA Transactional](https://www.baeldung.com/spring-vs-jta-transactional)
+- [ ] [Java Transactional](https://www.baeldung.com/java-transactions)
 - [ ] [Transaction Configuration with JPA and Spring](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
 - [ ] [Spring Transactional Propagation and Isolation](https://www.baeldung.com/spring-transactional-propagation-isolation)
+- [ ] [Spring Transaction Active](https://www.baeldung.com/spring-transaction-active)
 
 # Threads
 - [ ] [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
