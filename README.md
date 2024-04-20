@@ -1,3 +1,9 @@
+# How to use this repo?
+The links that are listed in this Readme are the same links in the .txt files.
+it is just here for more clearer view, but use the txt files to track your progress, taking notes or any thing you wish.
+goodLuck ✌
+
+
 # Interview Resources
 
 ### Main Links in Baeldung
