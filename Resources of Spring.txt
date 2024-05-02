@@ -32,6 +32,12 @@ https://www.baeldung.com/spring-xml-injection (OPTIONAL): Knowing that the popul
 https://www.baeldung.com/spring-component-annotation
 https://www.baeldung.com/spring-component-scanning
 https://www.baeldung.com/spring-inject-prototype-bean-into-singleton
+https://www.baeldung.com/spring-beans-factory-methods
+https://www.baeldung.com/spring-beanfactory
+https://www.baeldung.com/spring-lookup
+https://www.baeldung.com/spring-lazy-annotation
+https://www.baeldung.com/spring-depends-on
+https://www.baeldung.com/spring-service-annotation-placement
 
 https://www.baeldung.com/java-spring-field-injection-cons 			(OPTIONAL)
 https://www.baeldung.com/spring-autowired-field-null	  			(OPTIONAL)

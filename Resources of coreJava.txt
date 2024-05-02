@@ -6,46 +6,46 @@ https://www.baeldung.com/tag/interview
 
 ✔ https://www.baeldung.com/java-string-pool	
 ✔ https://www.baeldung.com/java-string-builder-string-buffer
-https://www.baeldung.com/java-stringtokenizer (optional)
 ✔ https://www.baeldung.com/java-string-immutable
 ==================================================================================
 
 <<<<< Interfaces  + Packaging >>>>>
 
-https://www.baeldung.com/java-interfaces
-https://www.baeldung.com/java-interface-default-method-vs-abstract-class
-https://www.baeldung.com/java-interface-private-methods
-https://www.baeldung.com/java-interface-vs-abstract-class
-https://www.baeldung.com/java-marker-interfaces
-https://www.baeldung.com/java-static-default-methods
-https://www.baeldung.com/java-inner-interfaces
-https://www.baeldung.com/java-packages
+✔ https://www.baeldung.com/java-interfaces
+✔ https://www.baeldung.com/java-interface-default-method-vs-abstract-class
+✔ https://www.baeldung.com/java-interface-private-methods
+✔ https://www.baeldung.com/java-interface-vs-abstract-class (IMPORTANT)
+✔ https://www.baeldung.com/java-marker-interfaces
+✔ https://www.baeldung.com/java-static-default-methods
+✔ https://www.baeldung.com/java-inner-interfaces
+✔ https://www.baeldung.com/java-packages
 
 Note: package is just in the last link.
 ==================================================================================
 
 <<<<< Wrapper class + Autoboxing and Unboxing >>>>>
 
-https://www.baeldung.com/java-wrapper-classes
+✔ https://www.baeldung.com/java-wrapper-classes
 ==================================================================================
 
 <<<<< Enum >>>>>
 
-https://www.baeldung.com/a-guide-to-java-enums
-https://www.baeldung.com/java-enum-values (LW FE W2T)
+✔ https://www.baeldung.com/a-guide-to-java-enums
+https://www.baeldung.com/java-enum-map
+https://www.baeldung.com/java-enumset
+(Note: study the previous two links after the collections)
 ==================================================================================
 
 <<<<< Annotation >>>>>
 
-https://www.baeldung.com/java-default-annotations
-https://www.baeldung.com/java-annotation-attribute-value-restrictions
-https://www.baeldung.com/java-custom-annotation
+✔ https://www.baeldung.com/java-default-annotations
+✔ https://www.baeldung.com/java-annotation-attribute-value-restrictions
+✔ https://www.baeldung.com/java-custom-annotation
 ==================================================================================
 
 <<<<< Exceptions >>>>>
 
 https://www.baeldung.com/java-errors-vs-exceptions
-https://www.baeldung.com/java-constructors-exceptions (optional)
 https://www.baeldung.com/java-throw-throws
 https://www.baeldung.com/java-common-exceptions (optional)
 https://www.baeldung.com/java-exceptions
@@ -78,6 +78,11 @@ https://www.baeldung.com/java-type-erasure
 https://www.baeldung.com/java-inner-classes-vs-subclasses
 ==================================================================================
 
+<<<<< Reflection >>>>>
+https://www.baeldung.com/java-reflection
+https://www.baeldung.com/java-reflection-benefits-drawbacks
+==================================================================================
+
 <<<<< Stram API >>>>>
 https://www.baeldung.com/java-8-streams
 https://www.baeldung.com/java-when-to-use-parallel-stream
@@ -86,14 +91,10 @@ https://www.baeldung.com/java-groupingby-collector
 https://www.baeldung.com/java-flatten-stream-map
 https://www.baeldung.com/intellij-debugging-java-streams (SELF IMPROVMENT)
 https://www.baeldung.com/java-stream-reduce
-https://www.baeldung.com/java-streams-peek-api
-https://www.baeldung.com/java-spliterator
-https://www.baeldung.com/java-9-stream-api
 https://www.baeldung.com/java-8-collectors
 
 https://www.baeldung.com/java-optional
 https://www.baeldung.com/java-optional-or-else-vs-or-else-get
-https://www.baeldung.com/java-9-optional
 ==================================================================================
 
 <<<<< Collections & Iterators >>>>>
@@ -101,16 +102,22 @@ https://www.baeldung.com/java-iterator-vs-listiterator
 https://www.baeldung.com/java-iterator-vs-iterable
 https://www.baeldung.com/java-iterator
 https://www.baeldung.com/java-fail-safe-vs-fail-fast-iterator
+https://www.baeldung.com/java-choose-list-set-queue-map
+https://www.baeldung.com/java-collections-complexity
 
 <Lists>
+https://www.baeldung.com/java-list-interface
 https://www.baeldung.com/java-linkedlist
 https://www.baeldung.com/java-arraylist
 https://www.baeldung.com/java-multi-dimensional-arraylist
 https://www.baeldung.com/java-arrays-guide
+https://www.baeldung.com/java-copy-on-write-arraylist
 
 <Set>
 https://www.baeldung.com/java-tree-set
 https://www.baeldung.com/java-hashset
+https://www.baeldung.com/java-linkedhashset
+https://www.baeldung.com/java-hashset-vs-treeset
 
 <Map>
 https://www.baeldung.com/java-hashmap
@@ -118,16 +125,17 @@ https://www.baeldung.com/java-hashmap-advanced
 https://www.baeldung.com/java-treemap
 https://www.baeldung.com/java-treemap-vs-hashmap
 https://www.baeldung.com/java-linked-hashmap
+https://www.baeldung.com/java-concurrent-map
+https://www.baeldung.com/java-concurrent-skip-list-map
+https://www.baeldung.com/java-hash-table
+https://www.baeldung.com/hashmap-hashtable-differences
+https://www.baeldung.com/java-hashtable-vs-concurrenthashmap
 https://www.baeldung.com/java-hashmap-load-factor (OPTIONAL)
 
 <Queue>
 https://www.baeldung.com/java-array-deque
 https://www.baeldung.com/java-queue
-https://www.baeldung.com/java-priorityqueue (OPTIONAL)
-
-<Misc>
-https://www.baeldung.com/java-collections-complexity (OPTIONAL)
-https://www.baeldung.com/java-choose-list-set-queue-map (OPTIONAL)
+https://www.baeldung.com/java-priorityqueue
 ==================================================================================
 
 <<<<< Serialization >>>>>
