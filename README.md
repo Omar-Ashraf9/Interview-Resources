@@ -229,7 +229,7 @@ goodLuck ✌
 - [ ] [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) (Optional) Most important topic is: indexing
 - [ ] [SQL Guide](https://www.mysqltutorial.org/) (Optional) helps in understanding the queries
 - [ ] [Execution Order](https://vladmihalcea.com/sql-operation-order/)
-- [ ] [Connection Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+- [ ] [Connection Pool Sizing (Important !!)](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 
 ## Microservices
 - [ ] [Immersive guide to microservices](https://levelup.gitconnected.com/immersive-guide-to-microservices-f646a691d219)
