@@ -219,6 +219,8 @@ goodLuck ✌
 - [ ] [JPA and Hibernate Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context)
 - [ ] [Hibernate EntityManager](https://www.baeldung.com/hibernate-entitymanager)
 
+## Spring Data
+- [ ] [@Modifying Annotation](https://www.baeldung.com/spring-data-jpa-modifying-annotation)
 
 ## Threads
 - [ ] [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
