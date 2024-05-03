@@ -219,6 +219,8 @@ goodLuck ✌
 - [ ] [JPA and Hibernate Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context)
 - [ ] [Hibernate EntityManager](https://www.baeldung.com/hibernate-entitymanager)
 
+## Spring Data
+- [ ] [@Modifying Annotation](https://www.baeldung.com/spring-data-jpa-modifying-annotation)
 
 ## Threads
 - [ ] [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
@@ -229,6 +231,7 @@ goodLuck ✌
 - [ ] [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) (Optional) Most important topic is: indexing
 - [ ] [SQL Guide](https://www.mysqltutorial.org/) (Optional) helps in understanding the queries
 - [ ] [Execution Order](https://vladmihalcea.com/sql-operation-order/)
+- [ ] [Connection Pool Sizing (Important !!)](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 
 ## Microservices
 - [ ] [Immersive guide to microservices](https://levelup.gitconnected.com/immersive-guide-to-microservices-f646a691d219)
