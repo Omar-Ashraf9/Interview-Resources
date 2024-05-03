@@ -122,6 +122,7 @@ goodLuck ✌
 - [ ] [Java Transient Keyword](https://www.baeldung.com/java-transient-keyword)
 
 ## Spring
+- [ ] [Spring Notes](https://github.com/linnykoleh/Spring/blob/master/Notes.md)
 
 ### Spring Core
 - [ ] [IoC in Spring](https://www.baeldung.com/cs/ioc)
