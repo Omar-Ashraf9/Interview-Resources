@@ -130,6 +130,7 @@ goodLuck ✌
 ### Spring Core
 - [ ] [IoC in Spring](https://www.baeldung.com/cs/ioc)
 - [ ] [Inversion of Control and Dependency Injection in Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+- [ ] [Design Patterns in Spring](https://medium.com/@bubu.tripathy/design-patterns-used-in-spring-framework-60df94fd3400)
 - [ ] [Why Choose Spring? (Optional)](https://www.baeldung.com/spring-why-to-choose)
 - [ ] [Spring Application Context](https://www.baeldung.com/spring-application-context)
 - [ ] [BeanFactory vs. ApplicationContext](https://www.baeldung.com/spring-beanfactory-vs-applicationcontext)
