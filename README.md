@@ -126,6 +126,10 @@
 - [ ] [@MapsId](https://www.geeksforgeeks.org/hibernate-mapsid-annotation/)
 - [ ] [Fetch Modes](https://www.baeldung.com/hibernate-fetchmode)
 
+### REST
+- [ ] [What is REST ?](https://www.restapitutorial.com/lessons/whatisrest.html#)
+- [ ] [SOAP vs REST](https://aws.amazon.com/compare/the-difference-between-soap-rest/#:~:text=SOAP%20and%20REST%20are%20two%20different%20approaches%20to%20API%20design,exchange%20data%20in%20multiple%20formats.)
+
 ## Spring
 - [ ] [Spring Notes](https://github.com/linnykoleh/Spring/blob/master/Notes.md)
 
