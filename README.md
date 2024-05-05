@@ -118,6 +118,14 @@
 - [ ] [Java Serialization](https://www.baeldung.com/java-serialization)
 - [ ] [Java Transient Keyword](https://www.baeldung.com/java-transient-keyword)
 
+### JPA
+- [ ] [Entity States](https://jstobigdata.com/jpa/different-states-of-an-object-in-jpa/)
+- [ ] [getReference() vs find()](https://www.baeldung.com/jpa-entity-manager-get-reference)
+- [ ] [Inheritance](https://www.baeldung.com/hibernate-inheritance)
+- [ ] [Associations](https://www.baeldung.com/jpa-hibernate-associations)
+- [ ] [@MapsId](https://www.geeksforgeeks.org/hibernate-mapsid-annotation/)
+- [ ] [Fetch Modes](https://www.baeldung.com/hibernate-fetchmode)
+
 ## Spring
 - [ ] [Spring Notes](https://github.com/linnykoleh/Spring/blob/master/Notes.md)
 
