@@ -229,6 +229,10 @@
 ## Spring Data
 - [ ] [@Modifying Annotation](https://www.baeldung.com/spring-data-jpa-modifying-annotation)
 
+
+## Spring Security
+- [ ] [Spring Security Samples](https://github.com/spring-projects/spring-security-samples/tree/6.0.x?tab=readme-ov-file)
+
 ## Threads
 - [ ] [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
 
