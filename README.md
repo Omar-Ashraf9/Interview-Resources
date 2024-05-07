@@ -125,6 +125,7 @@
 - [ ] [Associations](https://www.baeldung.com/jpa-hibernate-associations)
 - [ ] [@MapsId](https://www.geeksforgeeks.org/hibernate-mapsid-annotation/)
 - [ ] [Fetch Modes](https://www.baeldung.com/hibernate-fetchmode)
+- [ ] [pessimistic and optimistic locking in JPA (optional)](https://serengetitech.com/tech/pessimistic-and-optimistic-locking-in-jpa-and-hibernate/)
 
 ## REST
 - [ ] [What is REST ?](https://www.restapitutorial.com/lessons/whatisrest.html#)
