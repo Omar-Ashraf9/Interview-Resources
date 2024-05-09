@@ -236,7 +236,7 @@
 
 ## Threads
 - [ ] [Concurrency, Race Conditions, and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
-- [ ] [ ] [Threads lifecycle](https://www.baeldung.com/java-thread-lifecycle)
+- [ ] [Threads lifecycle](https://www.baeldung.com/java-thread-lifecycle)
 
 ## Database
 - [ ] [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres) (Optional but Recommended)
