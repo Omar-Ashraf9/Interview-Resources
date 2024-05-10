@@ -226,6 +226,7 @@
 - [ ] [Transaction Configuration with JPA and Spring (Optional)](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
 - [ ] [Spring @Transactional Propagation and Isolation](https://www.baeldung.com/spring-transactional-propagation-isolation)
 - [ ] [Spring Transaction Active](https://www.baeldung.com/spring-transaction-active)
+- [ ] [Requiers_new use cases (Very Important)](https://medium.com/@aleksanderkolata/use-case-02-spring-transactional-requires-new-propagation-mode-cb7c16e1dd16)
 
 #### Persistence Context
 - [ ] [JPA and Hibernate Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context)
