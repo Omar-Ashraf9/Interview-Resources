@@ -274,6 +274,7 @@
 - [ ] [Excecute Vs Submit in executers](https://www.baeldung.com/java-execute-vs-submit-executor-service)
 - [ ] [Thread pool](https://www.baeldung.com/thread-pool-java-and-guava)
 - [ ] [Completable Future](https://www.baeldung.com/java-completablefuture)
+- [ ] [Intruppted Vs Intruppt Vs isIntruppted](https://medium.com/@avinashsoni9829/java-threads-internals-interrupt-interrupted-is-interrupted-methods-part-7-92d093db3881)
 
 ## Database
 - [ ] [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres) (Optional but Recommended)
