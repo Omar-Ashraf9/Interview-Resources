@@ -11,7 +11,7 @@
 ## Java
 
 ### Notes
-- [ ][Java OCP 11 Notes](https://little-magnesium-737.notion.site/Java-OCP-11-Summary-30cae475efa6483592729a8901b9eccc)
+- [ ] [Java OCP 11 Notes](https://little-magnesium-737.notion.site/Java-OCP-11-Summary-30cae475efa6483592729a8901b9eccc)
 
 ### String
 - [ ] [Java String Pool](https://www.baeldung.com/java-string-pool)
@@ -122,7 +122,7 @@
 - [ ] [Java Transient Keyword](https://www.baeldung.com/java-transient-keyword)
 
 ## JPA
-- [ ][JPA Notes](https://little-magnesium-737.notion.site/JPA-Hibernate-f357b81567904658a0c66f7b1d792737)
+- [ ] [JPA Notes](https://little-magnesium-737.notion.site/JPA-Hibernate-f357b81567904658a0c66f7b1d792737)
 - [ ] [Entity States](https://jstobigdata.com/jpa/different-states-of-an-object-in-jpa/)
 - [ ] [getReference() vs find()](https://www.baeldung.com/jpa-entity-manager-get-reference)
 - [ ] [Inheritance](https://www.baeldung.com/hibernate-inheritance)
@@ -134,6 +134,7 @@
 ## REST
 - [ ] [What is REST ?](https://www.restapitutorial.com/lessons/whatisrest.html#)
 - [ ] [SOAP vs REST](https://aws.amazon.com/compare/the-difference-between-soap-rest/#:~:text=SOAP%20and%20REST%20are%20two%20different%20approaches%20to%20API%20design,exchange%20data%20in%20multiple%20formats.)
+- [ ] [REST API Levels](https://blog.restcase.com/4-maturity-levels-of-rest-api-design/)
 
 ## Spring
 - [ ] [Spring Notes](https://github.com/linnykoleh/Spring/blob/master/Notes.md)
@@ -188,6 +189,9 @@
 - [ ] [Spring AOP Advice Tutorial](https://www.baeldung.com/spring-aop-advice-tutorial)
 - [ ] [Getting Advised Method Information in Spring AOP](https://www.baeldung.com/spring-aop-get-advised-method-info)
 - [ ] [Spring AOP Pointcut Tutorial](https://www.baeldung.com/spring-aop-pointcut-tutorial)
+- [ ] [Spring AOP Example](https://www.baeldung.com/spring-aspect-oriented-programming-logging)
+- [ ] [Joinpoint vs. ProceedingJoinPoint](https://www.baeldung.com/aspectj-joinpoint-proceedingjoinpoint)
+- [ ] [Spring AOP Vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
 
 ### Spring MVC
 - [ ] [Spring MVC Tutorial](https://www.baeldung.com/spring-mvc-tutorial)
@@ -226,6 +230,7 @@
 - [ ] [Transaction Configuration with JPA and Spring (Optional)](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
 - [ ] [Spring @Transactional Propagation and Isolation](https://www.baeldung.com/spring-transactional-propagation-isolation)
 - [ ] [Spring Transaction Active](https://www.baeldung.com/spring-transaction-active)
+- [ ] [Requiers_new use cases (Very Important)](https://medium.com/@aleksanderkolata/use-case-02-spring-transactional-requires-new-propagation-mode-cb7c16e1dd16)
 
 #### Persistence Context
 - [ ] [JPA and Hibernate Persistence Context](https://www.baeldung.com/jpa-hibernate-persistence-context)
@@ -273,6 +278,7 @@
 - [ ] [Excecute Vs Submit in executers](https://www.baeldung.com/java-execute-vs-submit-executor-service)
 - [ ] [Thread pool](https://www.baeldung.com/thread-pool-java-and-guava)
 - [ ] [Completable Future](https://www.baeldung.com/java-completablefuture)
+- [ ] [Intruppted Vs Intruppt Vs isIntruppted](https://medium.com/@avinashsoni9829/java-threads-internals-interrupt-interrupted-is-interrupted-methods-part-7-92d093db3881)
 
 ## Database
 - [ ] [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres) (Optional but Recommended)
