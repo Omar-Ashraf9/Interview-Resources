@@ -10,6 +10,9 @@
 
 ## Java
 
+### Notes
+- [ ][Java OCP 11 Notes](https://little-magnesium-737.notion.site/Java-OCP-11-Summary-30cae475efa6483592729a8901b9eccc)
+
 ### String
 - [ ] [Java String Pool](https://www.baeldung.com/java-string-pool)
 - [ ] [Java StringBuilder vs. StringBuffer](https://www.baeldung.com/java-string-builder-string-buffer)
@@ -119,6 +122,7 @@
 - [ ] [Java Transient Keyword](https://www.baeldung.com/java-transient-keyword)
 
 ## JPA
+- [ ][JPA Notes](https://little-magnesium-737.notion.site/JPA-Hibernate-f357b81567904658a0c66f7b1d792737)
 - [ ] [Entity States](https://jstobigdata.com/jpa/different-states-of-an-object-in-jpa/)
 - [ ] [getReference() vs find()](https://www.baeldung.com/jpa-entity-manager-get-reference)
 - [ ] [Inheritance](https://www.baeldung.com/hibernate-inheritance)
