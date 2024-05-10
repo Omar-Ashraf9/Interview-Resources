@@ -189,6 +189,9 @@
 - [ ] [Spring AOP Advice Tutorial](https://www.baeldung.com/spring-aop-advice-tutorial)
 - [ ] [Getting Advised Method Information in Spring AOP](https://www.baeldung.com/spring-aop-get-advised-method-info)
 - [ ] [Spring AOP Pointcut Tutorial](https://www.baeldung.com/spring-aop-pointcut-tutorial)
+- [ ] [Spring AOP Example](https://www.baeldung.com/spring-aspect-oriented-programming-logging)
+- [ ] [Joinpoint vs. ProceedingJoinPoint](https://www.baeldung.com/aspectj-joinpoint-proceedingjoinpoint)
+- [ ] [Spring AOP Vs AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)
 
 ### Spring MVC
 - [ ] [Spring MVC Tutorial](https://www.baeldung.com/spring-mvc-tutorial)
