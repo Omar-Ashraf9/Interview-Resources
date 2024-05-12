@@ -236,6 +236,7 @@
 - [ ] [Spring MVC Session Attributes](https://www.baeldung.com/spring-mvc-session-attributes)
 - [ ] [Exception Handling for REST with Spring](https://www.baeldung.com/exception-handling-for-rest-with-spring)
 - [ ] [REST Versioning with Spring](https://www.baeldung.com/rest-versioning)
+- [ ] [@RestController vs @Controller](https://www.baeldung.com/spring-controller-vs-restcontroller)
 
 ### Spring Data Access
 #### JDBC
