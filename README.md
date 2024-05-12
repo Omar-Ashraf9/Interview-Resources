@@ -8,6 +8,24 @@
 - [ ] [Core Java](https://www.baeldung.com/category/core-java)
 - [ ] [Interview](https://www.baeldung.com/tag/interview)
 
+
+## Algorithms & DS
+- [Follow This link for breif explanation for differernt topic](https://www.programiz.com/dsa)
+  
+- Asymptotic notations (مهم)
+- Arrays vs Linked List 
+- Stack
+- Queue
+- Hash table (مهم)
+- Linear vs Binary Search
+- Sorting algorithms (merge, bubble, insertion, selection)
+
+### Optional:
+- Quick sort
+- Heap
+- Binary tree
+- Graph
+
 ## Java
 
 ### Notes
