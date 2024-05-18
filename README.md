@@ -26,6 +26,9 @@
 - Binary tree
 - Graph
 
+### Problem Solving 
+- [Quick Preparation](https://leetcode.com/problem-list/mveuvdsg/)
+
 ## Java
 
 ### Notes
